@@ -1,3 +1,4 @@
+#php 56
 FROM shopex/centos6.8
 MAINTAINER zhangxuehui <zhangxuehui@shopex.cn>
 RUN yum install php-fpm56 -y 
